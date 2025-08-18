@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+
+!pyproject.toml
+!.python-version
+!*.py
