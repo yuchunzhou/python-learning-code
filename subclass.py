@@ -19,3 +19,5 @@ print(issubclass(C, A))  # True
 print(isinstance(c, A))  # True
 print(issubclass(C, B))  # True
 print(isinstance(c, B))  # True
+print(issubclass(C, C))  # True
+print(isinstance(c, C))  # True
