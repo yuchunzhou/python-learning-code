@@ -6,8 +6,8 @@ def foo(lst_):
 
 
 def bar(lst_):
-    # lst_ refs to a new list
     print(f"before assighment: {id(lst_)}")
+    # lst_ refs to a new list
     lst_ = [0, 0, 0]
     print(f"after assighment: {id(lst_)}")
 

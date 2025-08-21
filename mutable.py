@@ -1,5 +1,4 @@
 # tuple is immutable
-
 t = ()
 
 # will throw an exception
